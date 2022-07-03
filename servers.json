@@ -1503,6 +1503,13 @@
         ]
     },
     {
+		    "id": "codarpvp",
+        "name": "CodarPvP Network",
+        "addresses": [
+            "mc.codarpvp.club"
+        ]
+    },
+    {
 		    "id": "clashmc",
         "name": "ClashMC Network",
         "addresses": [
