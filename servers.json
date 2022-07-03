@@ -1510,6 +1510,13 @@
         ]
     },
     {
+		    "id": "codarpvp",
+        "name": "CodarPvP Network",
+        "addresses": [
+            "mc.codarpvp.club"
+        ]
+    },
+    {
         "id": "revenge",
         "name": "Revenge Network",
         "addresses": [
